@@ -23,9 +23,9 @@ const dict = {
         "planning",
         "PI",
         "review",
-	"SoDa",
-	"Software Development Agile",
-	"Burndown Chart",
+        "SoDa",
+        "Software Development Agile",
+        "Burndown Chart",
         "increment",
         "kanban",
         "task",
@@ -54,7 +54,8 @@ const dict = {
         "management",
         "KISS",
         "communication",
-        "scrum board"
+        "scrum board",
+        "CI/CD"
     ],
     "verb": [
         "review",
